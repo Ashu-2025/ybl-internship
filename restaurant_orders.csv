@@ -1,0 +1,31 @@
+Order_ID,Customer_Name,Food_Item,Quantity,Price,Total,Order_Date,Payment_Mode,Status
+1001,Arjun Mehta,Veg Biryani,1,150,150,2025-08-23,Cash,Pending
+1002,Priya Sharma,Veg Biryani,3,150,450,2025-08-19,UPI,Cancelled
+1003,Anjali Gupta,Idli Sambar,4,80,320,2025-08-11,Card,Cancelled
+1004,Rohan Das,Pizza Margherita,4,300,1200,2025-08-03,UPI,Cancelled
+1005,Arjun Mehta,Paneer Butter Masala,2,200,400,2025-08-12,Wallet,Cancelled
+1006,Priya Sharma,Veg Biryani,2,150,300,2025-08-22,Wallet,Cancelled
+1007,Rohan Das,Pasta Alfredo,2,180,360,2025-08-21,Wallet,Pending
+1008,Anjali Gupta,Paneer Butter Masala,1,200,200,2025-08-07,Card,Cancelled
+1009,Priya Sharma,Idli Sambar,3,80,240,2025-08-01,Wallet,Cancelled
+1010,Kavya Nair,Dal Tadka,3,130,390,2025-08-24,Cash,Delivered
+1011,Sneha Singh,Chapati,2,20,40,2025-08-19,Card,Delivered
+1012,Meena Iyer,Dal Tadka,4,130,520,2025-08-03,Card,Pending
+1013,Aman Kumar,Masala Dosa,4,120,480,2025-08-26,UPI,Pending
+1014,Priya Sharma,Masala Dosa,2,120,240,2025-08-07,Card,Delivered
+1015,Meena Iyer,Idli Sambar,4,80,320,2025-08-19,Wallet,Delivered
+1016,Arjun Mehta,Veg Biryani,2,150,300,2025-08-15,UPI,Cancelled
+1017,Arjun Mehta,Chicken Curry,3,250,750,2025-08-07,UPI,Pending
+1018,Priya Sharma,Veg Biryani,4,150,600,2025-08-16,Wallet,Pending
+1019,Aman Kumar,Idli Sambar,1,80,80,2025-08-21,Cash,Delivered
+1020,Rahul Verma,Pasta Alfredo,3,180,540,2025-08-06,Wallet,Pending
+1021,Vikram Patel,Pasta Alfredo,3,180,540,2025-08-03,UPI,Pending
+1022,Rohan Das,Chapati,2,20,40,2025-08-01,Card,Pending
+1023,Rohan Das,Pizza Margherita,2,300,600,2025-08-21,Cash,Pending
+1024,Vikram Patel,Chicken Curry,4,250,1000,2025-08-17,Wallet,Delivered
+1025,Kavya Nair,Dal Tadka,2,130,260,2025-08-23,Card,Pending
+1026,Arjun Mehta,Veg Biryani,2,150,300,2025-08-15,Cash,Pending
+1027,Arjun Mehta,Masala Dosa,1,120,120,2025-08-27,Cash,Cancelled
+1028,Priya Sharma,Chapati,1,20,20,2025-08-15,UPI,Delivered
+1029,Kavya Nair,Veg Biryani,3,150,450,2025-08-02,Cash,Cancelled
+1030,Rohan Das,Chicken Curry,3,250,750,2025-08-01,UPI,Pending
